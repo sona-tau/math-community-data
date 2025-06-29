@@ -33,12 +33,14 @@ fields of study.
         - Current Population Survey (CPS) – Includes data on employment in STEM
 fields.
     - [www.census.gov](https://www.census.gov/)
+
 - National Center for Education Statistics (NCES)
     - Tracks degrees awarded in mathematics (bachelor's, master's, Ph.D.) by
 gender, race, and institution.
     - Integrated Postsecondary Education Data System (IPEDS) – Detailed data on
 enrollments and degrees in math.
     - [nces.ed.gov](https://nces.ed.gov/)
+
 - National Science Foundation (NSF) – National Center for Science and
 Engineering Statistics (NCSES)
     - Survey of Earned Doctorates (SED) – Tracks Ph.D. recipients in
@@ -48,6 +50,7 @@ mathematics (demographics, employment).
     - Science & Engineering Indicators – Reports on STEM workforce, including
 mathematicians.
     - [ncses.nsf.gov](https://ncses.nsf.gov/)
+
 - Bureau of Labor Statistics (BLS)
     - Occupational Outlook Handbook – Employment trends for mathematicians,
 statisticians, and related fields.
@@ -62,6 +65,7 @@ employment data for mathematicians.
 production, and diversity.
     - Employment Surveys – Data on job placements in academia and industry.
     - [www.ams.org](https://www.ams.org/)
+
 - Mathematical Association of America (MAA)
     - Data on undergraduate math programs, enrollments, and faculty.
     - Reports on gender and racial diversity in math majors.
@@ -88,8 +92,11 @@ demographics.
 - IPUMS (Integrated Public Use Microdata Series) – Census/ACS data on math
 degree holders.
     - [ipums.org](https://ipums.org/)
+
 - Data.gov – U.S. government’s open data portal (STEM workforce datasets).
     - [data.gov](https://data.gov/)
+    - Annotations in: [us-data-portal.md](us-data-portal.md)
+
 - Harvard Dataverse – Hosts academic datasets on education and workforce trends.
     - [dataverse.harvard.edu](https://dataverse.harvard.edu/)
 
