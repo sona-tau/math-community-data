@@ -1,0 +1,21 @@
+Add to cart,Variable,Variable Label,CG2013,DR2013,CG2010,DR2010,RG2010,CG2008,DR2008,RG2008,CG2006,DR2006,RG2006,CG2003,DR2003,RG2003,CG1999,DR1999,RG1999,CG1997,DR1997,RG1997,CG1995,DR1995,RG1995,CG1993,DR1993,Variable,RG1993
+,BAAYR5,Year of first bachelor's degree pre-2003 (5-year intervals),,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,X,X,BAAYR5,X
+,BA03Y5,Year of first bachelor degree 2003-onward (5-year intervals),X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,,,,,,,,,BA03Y5,
+,NBAMED,Field of major for first bachelor degree code,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,NBAMED,X
+,NBAMEMG,Field of major for first bachelor degree (major group),X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,NBAMEMG,X
+,BARGN,Location of school awarding first bachelor's degree (region),,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,X,X,BARGN,X
+,BADGRUS,Location of school awarding first bachelor degree (US/non-US),X,X,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,X,X,BADGRUS,X
+,FMEC,Education code for first intended major (best code),,,,,,,,,,,,,,,,,,,,,,,,,,FMEC,X
+,FMMEG,Field of intended bachelors degree (major group),,,,,,,,,,,,,,,,,X,,,X,,,,,,FMMEG,X
+,FMNEG,Field of intended bachelors degree (minor group),,,,,,,,,,,,,,,,,,,,,,,,,,FMNEG,X
+,FMNOI,First intended major: undecided,,,,,,,,,,,,,,,,,X,,,X,,,X,,,FMNOI,X
+,UGGPA,Undergraduate grade-point average (GPA),,,,,,,,,,,,,,,,,X,,,X,,,X,,,UGGPA,X
+,BAFAST,Financial support for first bachelor degree: Assistantship/work study,,,,,,,,,,,,,,,X,,X,X,,X,X,,X,,,BAFAST,X
+,BAFEM,Financial support for first bachelor degree: Employer,,,,,,,,,,,,,,,X,,X,X,,X,X,,X,,,BAFEM,X
+,BAFERN,Financial support for first bachelor degree: Earnings from employment,,,,,,,,,,,,,,,X,,X,X,,X,X,,X,,,BAFERN,X
+,BAFGFT,Financial support for first bachelor degree: Gifts,,,,,,,,,,,,,,,X,,X,X,,X,X,,X,,,BAFGFT,X
+,BAFGRN,Financial support for first bachelor degree: Grants,,,,,,,,,,,,,,,X,,X,X,,X,X,,X,,,BAFGRN,X
+,BAFLN,Financial support for first bachelor degree: Loans,,,,,,,,,,,,,,,X,,X,X,,X,X,,X,,,BAFLN,X
+,BAFOT,Financial support for first bachelor degree: Other,,,,,,,,,,,,,,,X,,X,X,,X,X,,X,,,BAFOT,X
+,BAFPLN,Financial support for first bachelor degree: Loans from relatives,,,,,,,,,,,,,,,X,,X,X,,X,X,,X,,,BAFPLN,X
+,UGBAL,Undergraduate loans: remaining balance,,,,,,,,,,,,,,,,,X,,,X,,,X,,,UGBAL,X

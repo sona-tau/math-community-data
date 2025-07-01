@@ -1,0 +1,17 @@
+Add to cart,Variable,Variable Label,CG2013,DR2013,CG2010,DR2010,RG2010,CG2008,DR2008,RG2008,CG2006,DR2006,RG2006,CG2003,DR2003,RG2003,CG1999,DR1999,RG1999,CG1997,DR1997,RG1997,CG1995,DR1995,RG1995,CG1993,DR1993,Variable,RG1993
+,MRDG,Type of degree, most recent degree,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,MRDG,X
+,MR03Y5,Year of most recent degree (5-year intervals, 2003+),X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,,,,,,,,,MR03Y5,
+,MR5YR,Year of most recent degree (5-year intervals, pre-2003) ,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,X,X,MR5YR,X
+,NMRMEDR,Field of major for most recent degree,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,NMRMEDR,X
+,NMRMEMG,Field of study of major for most recent degree (major group),X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,NMRMEMG,X
+,MRRGN,Location of school awarding most recent degree,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,X,X,MRRGN,X
+,MRDGRUS,School awarding most recent degree located in the US,X,X,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,X,X,MRDGRUS,X
+,MRFAST,Financial support, most recent degree: assistantship/work study,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,X,MRFAST,X
+,MRFEM,Financial support, most recent degree: financial assistance from employer,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,X,MRFEM,X
+,MRFERN,Financial support, most recent degree: earnings from employment,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,X,MRFERN,X
+,MRFGFT,Financial support, most recent degree: gifts,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,X,MRFGFT,X
+,MRFGRN,Financial support, most recent degree: grants,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,X,MRFGRN,X
+,MRFLN,Financial support, most recent degree: loans,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,X,MRFLN,X
+,MRFPLN,Financial support, most recent degree: loans from parents, other relatives,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,X,MRFPLN,X
+,MRFOT,Financial support, most recent degree: other,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,X,MRFOT,X
+

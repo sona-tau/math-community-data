@@ -1,0 +1,20 @@
+,AGE,Age,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,AGE,X
+,BIRYR,Birth year,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,BIRYR,X
+,GENDER,Gender,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,GENDER,X
+,MINRTY,Minority indicator,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,MINRTY,X
+,RACETH,Race/ethnicity,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,RACETH,X
+,BTHUS,Place of birth,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,BTHUS,X
+,CTZUSIN,US citizenship status, binary,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,CTZUSIN,X
+,CTZUS,Type of US citizen,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,,,,,,,,,CTZUS,
+,FNVS,Type of visa held when first came to US,,,,,,,,,,,,X,X,X,,,,,,,,,,,,FNVS,
+,CHTOT,Total number of children,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,CHTOT,X
+,CHU2,Number of children: under age 2,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,,CHU2,
+,CHU2IN,Children indicator: under age 2,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,CHU2IN,
+,CH6,Number of children: under age 6,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,X,X,CH6,X
+,CH6IN,Children indicator: under age 6,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,CH6IN,X
+,CH25,Number of children: aged 2-5,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,,CH25,
+,CH25IN,Children indicator: ages 2-5,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,CH25IN,
+,CH611,Number of children: aged 6-11,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,X,X,CH611,X
+,CH611IN,Children indicator: ages 6-11,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,X,CH611IN,X
+,CHUN12,Children indicator: under 12,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,CHUN12,X
+,CH1217,Number of children: aged 12-17,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,X,X,CH1217,X

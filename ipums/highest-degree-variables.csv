@@ -1,0 +1,17 @@
+Add to cart,Variable,Variable Label,CG2013,DR2013,CG2010,DR2010,RG2010,CG2008,DR2008,RG2008,CG2006,DR2006,RG2006,CG2003,DR2003,RG2003,CG1999,DR1999,RG1999,CG1997,DR1997,RG1997,CG1995,DR1995,RG1995,CG1993,DR1993,Variable,RG1993
+,DGRDG,Type of highest certificate or degree,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,DGRDG,X
+,HDAY5,Year of highest degree pre-2003 (5 year intervals),,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,X,X,HDAY5,X
+,HD03Y5,Year of highest degree 2003-onward (5 year intervals),X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,,,,,,,,,HD03Y5,
+,NDGMED,Field of major for highest degree ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,NDGMED,X
+,NDGMEMG,Field of major for highest degree (major group),X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,NDGMEMG,X
+,HDRGN,Location of school awarding highest degree,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,X,X,HDRGN,X
+,HDDGRUS,School awarding highest degree located in the US,X,X,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,X,X,HDDGRUS,X
+,HDFAST,Financial support for highest degree: assistantship/work study,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,X,HDFAST,X
+,HDFEM,Financial support for highest degree: financial assistance from employer,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,X,HDFEM,X
+,HDFERN,Financial support for highest degree: earnings from employment,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,X,HDFERN,X
+,HDFGFT,Financial support for highest degree: gifts,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,X,HDFGFT,X
+,HDFGRN,Financial support for highest degree: grants,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,X,HDFGRN,X
+,HDFLN,Financial support for highest degree: loans,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,X,HDFLN,X
+,HDFOT,Financial support for highest degree: other,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,X,HDFOT,X
+,HDFPLN,Financial support for highest degree: loans from parents, other relatives,,,,,,,,,,,,,,,X,X,X,X,X,X,X,X,X,,X,HDFPLN,X
+,SAMEFLD,Likelihood of choosing same field of study for highest degree,,,,,,,,,,,,,,,,,,X,X,,,,,,,SAMEFLD,
